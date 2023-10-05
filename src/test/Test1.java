@@ -2,7 +2,7 @@ package test;
 
 public class Test1 {
 	public static void main(String[] args) {
-		String name = "신난다";
+		String name = "난 일개 직원이다.";
 		int score = 75; 
 		char grade = ' ';
 	      
